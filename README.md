@@ -1,5 +1,6 @@
 Zebra-Printer_Print Bluetooth MAC Address from Mobile Printer
-# Bluetooth MACアドレスをモバイルプリンタから印刷する方法
+# Bluetooth MACアドレスを確認する方法
+
 
 ![title](image.png)
 
