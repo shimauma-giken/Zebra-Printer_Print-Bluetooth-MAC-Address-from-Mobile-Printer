@@ -1,5 +1,5 @@
 Zebra-Printer_Print Bluetooth MAC Address from Mobile Printer
-# Bluetooth MACアドレスを確認する方法
+# ゼブラモバイルプリンタにてBluetooth MACアドレスを確認する方法
 
 
 ![title](image.png)
