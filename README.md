@@ -53,6 +53,7 @@ Zebra-Printer_Print Bluetooth MAC Address from Mobile Printer
 1. **FF3.BATファイルをプリンタに送信**
 
    下記コマンドをプリンタに対して実行します。
+   
    ※印刷内容はご利用の環境に合わせて、適宜変更してください。
 
    ```
@@ -78,7 +79,7 @@ Zebra-Printer_Print Bluetooth MAC Address from Mobile Printer
     ```
 
     ![alt text](image-2.png)
-    
+
     </br>
 
 
